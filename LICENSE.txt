@@ -1,4 +1,4 @@
-manifoldjs-win32
+pwabuilder-win32
 
 Copyright (c) Microsoft Corporation
 
