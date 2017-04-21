@@ -18,7 +18,7 @@ npm install -g pwabuilder
 Add macOS platform by
 
 ```
-pwabuilder platform add win32 https://github.com/sozercan/manifoldjs-win32
+pwabuilder platform add win32 pwabuilder-win32
 ```
 
 ## Usage
