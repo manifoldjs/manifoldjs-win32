@@ -1,7 +1,7 @@
 {
-  "name": "manifoldjs-win32",
-  "version": "0.2.0",
-  "description": "Manifoldjs Windows Desktop Platform",
+  "name": "pwabuilder-win32",
+  "version": "2.0.0-rc.1",
+  "description": "PWA Builder Windows Desktop Platform",
   "repository": {
     "type": "git",
     "url": "https://github.com/sozercan/manifoldjs-win32"
@@ -28,12 +28,14 @@
     "W3C",
     "Manifold",
     "ManifoldJS",
+    "PWA",
+    "PWA Builder",
     "Windows"
   ],
   "dependencies": {
     "q": "^1.4.1",
     "png-to-ico": "^1.0.2",
-    "manifoldjs-lib": "^1.0.0",
+    "pwabuilder-lib": "^2.0.0-rc",
     "electron-packager": "^7.5.0",
     "npm": "^3.10.5"
   },

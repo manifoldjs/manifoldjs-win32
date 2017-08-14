@@ -1,30 +1,30 @@
-# manifoldjs-win32
+# pwabuilder-win32
 
-## ManifoldJS Windows Desktop Platform
+## PWA Builder Windows Desktop Platform
 
-Win32 platform module for [ManifoldJS](https://github.com/manifoldjs/ManifoldJS), a tool for creating hosted web applications based on a [W3C Web App manifest](http://www.w3.org/TR/appmanifest/).
+Win32 platform module for [PWA Builder](https://github.com/manifoldjs/ManifoldJS), a tool for creating hosted web applications based on a [W3C Web App manifest](http://www.w3.org/TR/appmanifest/).
 
 ## Documentation
 To get started, visit our [wiki](https://github.com/manifoldjs/ManifoldJS/wiki).
 
 ## Installation
 
-Make sure ManifoldJS is installed. If not, install using:
+Make sure PWA Builder is installed. If not, install using:
 
 ```
-npm install -g manifoldjs
+npm install -g pwabuilder
 ```
 
-Add macOS platform by 
+Add macOS platform by
 
 ```
-manifoldjs platform add win32 https://github.com/sozercan/manifoldjs-win32
+pwabuilder platform add win32 pwabuilder-win32
 ```
 
 ## Usage
 
 ```
-manifoldjs http://travelcontoso.azurewebsites.net -p win32
+pwabuilder http://travelcontoso.azurewebsites.net -p win32
 ```
 
 You can also convert your win32 app into a Windows Store app using [electron-windows-store](https://github.com/felixrieseberg/electron-windows-store)
@@ -38,7 +38,7 @@ You can also convert your win32 app into a Windows Store app using [electron-win
 
 ## License
 
-> manifoldjs-win32
+> pwabuilder-win32
 
 > Copyright (c) Microsoft Corporation
 
